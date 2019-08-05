@@ -1,0 +1,10 @@
+[package]
+name = "anime-find"
+version = "0.1.0"
+authors = ["Vianney Dupoy de Guitard <vianney@n4v1.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.19"
+serde = "1.0.98"
+getopts = "0.2.19"
